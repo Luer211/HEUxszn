@@ -1,3 +1,2 @@
-* [首页](README.md)
-* [指南](guide.md)
-* [GitHub](https://github.com/your-repo)
+<!-- 仅保留一个打开侧边栏的按钮 -->
+* [HEU新生指南](#/)

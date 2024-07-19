@@ -18,6 +18,16 @@
     .markdown-body a {
       color: aqua;
     }
+    .sidebar-toggle {
+      display: block;
+      color: black;
+      padding: 15px;
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .app-name::before {
+      content: 'HEU新生指南';
+    }
   </style>
 </head>
 <body>
@@ -28,6 +38,8 @@
       repo: '',
       loadSidebar: true ,
       loadNavbar: true,
+      subMaxLevel: 2,
+      auto2top: true,
     }
   </script>
   <!-- Docsify v4 -->
