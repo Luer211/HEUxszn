@@ -17,7 +17,7 @@
  接下来，请跟随以下图片的步骤，一步步解锁购买打折机票的秘诀。
 
  <!-- 设置两张图片并排显示，并设置间距 -->
- <div style="display: flex; gap: 20px;"> 
+ <div style="display: flex; gap: 15px;"> 
     <img src="images/jp1.jpg" alt="jp1" width="200" height="300"> 
     <img src="images/jp2.jpg" alt="jp2" width="200" height="300">
  </div>
